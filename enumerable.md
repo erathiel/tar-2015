@@ -1,6 +1,6 @@
 # Typ wyliczeniowy (Enumerable):
 
->Operacje na typach wyliczeniowych i strukturach które dziedziczą po enumerable (np. tablice czy hashe):
+> Operacje na typach wyliczeniowych i strukturach które dziedziczą po enumerable (np. tablice czy hashe):
 
 Sprawdzanie czy element kolekcji spełnia dany warunek:
 ```ruby

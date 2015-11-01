@@ -3,7 +3,7 @@
 Tablice to inaczej ułożone kolekcje danych, indeksowane intigerami.
 Indeksy tablic w Ruby, podobnie jak w C czy w Javie, zaczynają się od 0.
 
->1. Tworzenie tablic:
+> Tworzenie tablic:
 
 ```ruby
 sklep = ["jaja", "ser", "mleko"]
@@ -22,7 +22,7 @@ sklep = Array.new(3, "chleb")
 #=> ["chleb", "chleb", "chleb"]
 ```
 
->2. Proste użycie tablic:
+> Proste użycie tablic:
 
 Dostęp do elementów:
 ```ruby

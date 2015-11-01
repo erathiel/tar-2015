@@ -2,7 +2,7 @@
 
 Hashe to kolekcje składające się zawsze z pary klucz - wartość. Są bardzo podobne do tablic, jedankże indeksem hashy może być dowolny obiekt, podczas gdy w tablicach to musi być integer.
 
->1. Tworzenie hashy i dostęp do nich:
+> Tworzenie hashy i dostęp do nich:
 
 Normalna metoda:
 ```ruby
@@ -28,7 +28,7 @@ koszyk["Chleb"]
 #=>1
 ```
 
->2. Podstawowa obsługa hashy:
+> Podstawowa obsługa hashy:
 
 Przypisanie:
 ```ruby
@@ -62,7 +62,7 @@ koszyk.delete("Mleko")
 #=>"Plesniowy"
 ```
 
->Bardziej zaawansowane operacje:
+> Bardziej zaawansowane operacje:
 
 Inwersja pary klucz <-> hash:
 ```ruby
