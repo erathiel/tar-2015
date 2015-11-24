@@ -15,7 +15,7 @@
   - [Hash](http://ruby-doc.org/core-2.2.3/Hash.html)
   - [Array](http://ruby-doc.org/core-2.2.3/Array.html)
   - [Enumerable](http://ruby-doc.org/core-2.2.3/Enumerable.html)
-2. [ ] Coś do przetestowania na początek
+2. [x] [Coś do przetestowania na początek](https://github.com/erathiel/tar-2015/tree/master/zadanie2)
 3. [ ] Program/Biblioteka/Aplikacja WWW
 
 # Poradnik Ruby
