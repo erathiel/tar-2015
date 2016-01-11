@@ -16,7 +16,7 @@
   - [Array](http://ruby-doc.org/core-2.2.3/Array.html)
   - [Enumerable](http://ruby-doc.org/core-2.2.3/Enumerable.html)
 2. [x] [Coś do przetestowania na początek](https://github.com/erathiel/tar-2015/tree/master/zadanie2)
-3. [ ] Program/Biblioteka/Aplikacja WWW
+3. [x] [Aplikacja - kalkulator](https://github.com/Redellex/testowanie_ruby/tree/master/zadanie_3)
 
 # Poradnik Ruby
 
